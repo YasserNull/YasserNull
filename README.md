@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-[![Yasser Null profile views](https://u8views.com/api/v1/github/profiles/162287858/views/total-count.svg)](https://u8views.com/github/YasserNull)
 <!--
 **YasserNull/YasserNull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
