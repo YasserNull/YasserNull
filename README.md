@@ -1,16 +1,40 @@
-## Hi there 👋
+# Welcome to **YasserNull**'s Profile! :)
 
-<!--
-**YasserNull/YasserNull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Yasser, 17, from Algeria 🇩🇿.  
+I just want to create something helpful for others ^_^
 
-Here are some ideas to get you started:
+I love programming and tech in general.  
+I code using only my phone.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I mess around with random programming languages, but the ones I really like are:  
+Assembley / C / Shell  
+Others I’ve learned: Python, Java, Kotlin, JavaScript (not really into it)
+
+I like the Linux kernel, GNU/Linux systems, and Android.
+
+I make very random stuff like:  
+- Android apps (Normal, Root, Shizuku)  
+- Magisk & Xposed modules  
+- Tools & Scripts
+
+---
+
+## Greatest Things I’ve Achieved
+
+- Bot Player Addon — 1M+ downloads  
+- [Server Form Overlay](https://github.com/yasserXd99/Server_Form_Ui) — an actual innovation in Minecraft addon development
+
+---
+
+## Projects I Enjoyed Working On
+
+- [chroot-distro](https://github.com/Magisk-Modules-Alt-Repo/chroot-distro)  
+- [Shappky](https://github.com/YasserNull/shappky)
+
+I hope to keep learning and make even better stuff in the future =).
+
+---
+
+## Profile views
+
+![Profile views](https://komarev.com/ghpvc/?username=YasserNull&color=blue)
