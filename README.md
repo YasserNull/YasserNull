@@ -1,40 +1,9 @@
-# Welcome to **YasserNull**'s Profile! :)
+# Yasser Null
 
-I'm Yasser, 17, from Algeria 🇩🇿.  
-I just want to create something helpful for others ^_^
+An unemployed Algerian obsessed with creating open source projects 😺
 
-I love programming and tech in general.  
-I code using only my phone.
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=YasserNull&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=00ff00&text_color=00ff00&icon_color=00ff00&hide_border=true&cache_seconds=0"/>
 
-I mess around with random programming languages, but the ones I really like are:  
-Assembley / C / Shell  
-Others I’ve learned: Python, Java, Kotlin, JavaScript (not really into it)
-
-I like the Linux kernel, GNU/Linux systems, and Android.
-
-I make very random stuff like:  
-- Android apps (Normal, Root, Shizuku)  
-- Magisk & Xposed modules  
-- Tools & Scripts
-
----
-
-## Greatest Things I’ve Achieved
-
-- Bot Player Addon — 1M+ downloads  
-- [Server Form Overlay](https://github.com/yasserXd99/Server_Form_Ui) — an actual innovation in Minecraft addon development
-
----
-
-## Projects I Enjoyed Working On
-
-- [chroot-distro](https://github.com/Magisk-Modules-Alt-Repo/chroot-distro)  
-- [Shappky](https://github.com/YasserNull/shappky)
-
-I hope to keep learning and make even better stuff in the future =).
-
----
-
-## Profile views
-
-![Profile views](https://komarev.com/ghpvc/?username=YasserNull&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YasserNull&style=for-the-badge&label=Profile+Views" /> 
+</p>
